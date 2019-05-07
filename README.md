@@ -22,7 +22,7 @@ My Tribute Page is dedicated to the Notre-Dame de Paris in the light of recent s
 * Microsoft Visual Studio Code
 
 ## Screenshots
-![Example screenshot](./img/tribute-ac-unity-notre-dame.jpg)
+![Example screenshot](./tribute-ac-unity-notre-dame.jpg)
 
 ## Contact
 [ReznoRMichael](https://github.com/ReznoRMichael)
